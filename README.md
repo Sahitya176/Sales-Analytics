@@ -23,8 +23,8 @@ Analyze customer behavior and product performance using SQL queries, then visual
 - Power BI: DAX Measures, Slicers, KPIs, Interactive Visuals  
 
 ## 📂 Files Included
-- `Sales_Analytics_SQL_Project.sql` → Full SQL analysis  
-- *(Power BI .pbix file to be added later)*  
+- `sales_analytics.sql` → Full SQL analysis  
+- `Sales_Analytics_Dashboard.pbix` → Power BI dashboard based on SQL results    
 
 ## 🧑‍💼 Outcome
 Visual insights and clean dashboards created using SQL results for business-ready analysis.
